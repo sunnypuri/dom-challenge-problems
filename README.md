@@ -7,7 +7,7 @@ industrial level machine round questions.
 
 ### Challenge 1:
 
-Create a JS utility ..... [View](https://github.com/SunnyPuri/dom-challenge-problems/blob/master/challenge-1/README.md)
+Create star rating utility using HTML, CSS and JavaScript  [View](https://github.com/SunnyPuri/dom-challenge-problems/blob/master/challenge-1/README.md)
 
 **Date**: 11th JULY 2020 <br/>
 **Time:** 12:00 PM IST <br/>
