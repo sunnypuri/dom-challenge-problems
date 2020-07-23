@@ -88,4 +88,4 @@ function Star(el, count, callback) {
 
 <br />
 
-[Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.in/) | [Website](http://learn.devkode.in/)
+[Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)

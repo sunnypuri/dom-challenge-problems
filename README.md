@@ -13,10 +13,18 @@ Create star rating utility using HTML, CSS and JavaScript  [View](https://github
 **Time:** 12:00 PM IST <br/>
 **Duration:** 60 MIN <br/>
 
+---
 
-Submit your solution [here](https://forms.gle/shjtij4vCgDJuEU39)
+### Challenge 2:
+
+Create Pixel Art grid using HTML, CSS and JavaScript [View](https://github.com/SunnyPuri/dom-challenge-problems/blob/master/challenge-2/README.md)
+
+**Date**: 18th JULY 2020 <br/>
+**Time:** 03:00 PM IST <br/>
+**Duration:** 60 MIN <br/>
+
 
 
 <br />
 
-[Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.in/) | [Website](http://learn.devkode.in/)
+[Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)
