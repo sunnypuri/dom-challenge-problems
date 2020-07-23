@@ -4,7 +4,6 @@ Create star rating utility using HTML, CSS and JavaScript
 
 **Playground:** [JSFiddle](https://jsfiddle.net/devkode/wxoykdgm/)
 
-Submit your solution [here](https://forms.gle/shjtij4vCgDJuEU39)
 
 ## Template
 
