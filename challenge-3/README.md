@@ -2,6 +2,9 @@
 
 Create a chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals.
 
+
+**Submit:** [challenges.devkode.io](challenges.devkode.io)
+
 **Time Duration:** 90 minutes
 
 #### Instructions:
@@ -26,4 +29,9 @@ Create a chess board using HTML, CSS and Vanilla Javascript, where if you click 
 
 All the best :) 
 
-**Submit:** challenges.devkode.io
+
+
+
+<br />
+
+[Telegram](http://t.me/teamdevkode) | [Instagram](https://www.instagram.com/devkode.io/) | [Website](https://learn.devkode.io/)
