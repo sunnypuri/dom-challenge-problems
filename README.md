@@ -25,11 +25,13 @@ Create Pixel Art grid using HTML, CSS and JavaScript [View](https://github.com/s
 
 ---
 
-### Challenge 3: (Upcoming)
+### Challenge 3:
+
+Create a chess board using HTML, CSS and Vanilla Javascript, where if you click on any of the block it should highlight its diagonals. [View](https://github.com/sunnypuri/dom-challenge-problems/blob/master/challenge-3/README.md)
 
 **Date**: 25th JULY 2020 <br/>
 **Time:** 03:00 PM IST <br/>
-**Duration:** 60 MIN <br/>
+**Duration:** 90 MIN <br/>
 
 
 <br />
