@@ -33,6 +33,16 @@ Create a chess board using HTML, CSS and Vanilla Javascript, where if you click 
 **Time:** 03:00 PM IST <br/>
 **Duration:** 90 MIN <br/>
 
+---
+
+### Challenge 4:
+
+Create a color spotter game using HTML, CSS and Vanilla Javascript, where you have to identify the cell that is different from the rest. [View](https://github.com/sunnypuri/dom-challenge-problems/blob/master/challenge-4/README.md)
+
+**Date**: 1st AUGUST 2020 <br/>
+**Time:** 03:00 PM IST <br/>
+**Duration:** 90 MIN <br/>
+
 
 <br />
 
